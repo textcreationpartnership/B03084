@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lords spiritual and temporal, assembled at the House of Lords, Westminster, December 25 1688. We the Lords spiritual and temporal assembled in this conjecture, do desire your Highness to take upon you the administration of publick affairs, both civil and military ...</title>
+            <author>England and Wales. Parliament. House of Lords.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03084</idno>
+            <idno type="STC">Wing E2866D</idno>
+            <idno type="STC">ESTC R172061</idno>
+            <idno type="EEBO-CITATION">53981652</idno>
+            <idno type="OCLC">ocm 53981652</idno>
+            <idno type="VID">180226</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03084)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180226)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2821:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lords spiritual and temporal, assembled at the House of Lords, Westminster, December 25 1688. We the Lords spiritual and temporal assembled in this conjecture, do desire your Highness to take upon you the administration of publick affairs, both civil and military ...</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+                  <note>With: His Hignness the Prince of Orange's answer to the Lords spiritual and temporal, at St. James, December 28 1688.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Revolution of 1688 --  Sources.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:180226:1"/>
+            <!-- PDF PAGE 2 -->
+            <head>THE LORDS Spiritual and Temporal, Aſſembled at the Houſe of LORDS, <hi>WESTMINSTER,</hi> 
+               <date>December 25. 1688.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>E the Lords Spiritual and Temporal aſſembled in this Conjuncture, Do Deſire Your Highneſs to take upon You the Adminiſtration of publick Affairs, both Civil and Military, and the Diſpoſal of the publick Revenue, for the Preſervation of our Religion, Rights, Laws, Liberties and Properties, and of the Peace of the Nation; And that Your Highneſs will take into Your particular Care, the preſent Condition of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and endeavour, by the moſt ſpeedy and effectual means, to prevent the Dangers threat<g ref="char:EOLhyphen"/>ning that Kingdom: All which we make our Requeſts to Your Highneſs to undertake, and Exerciſe, till the Meeting of the intended Convention, the Two and twentieth of <hi>Janu<g ref="char:EOLhyphen"/>ary</hi> next: in which we doubt not ſuch proper methods will be taken, as will conduce to the Eſtabliſhment of theſe things upon ſuch ſure and legal Foundations, that they may not be in Danger of being again Subverted.</p>
+            <closer>
+               <dateline>
+                  <hi>Dated at the Houſe of Lords.</hi> Weſtminſter, <date>December the Five and twentieth, 1688.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="petition">
+            <p>WE the Lords Spiritual and Temporal Aſſembled at <hi>Weſtminſter</hi> in this Extraordinary Conjuncture, Do humbly Deſire Your Highneſſe to cauſe Letters to be written, ſubſcribed by Your Self, to the Lords Spiritual and Temporal, being Proteſtants, and to the ſeveral Counties, Univerſi<g ref="char:EOLhyphen"/>ties, Cities, Boroughs, and Cinque-Ports of <hi>England, Wales,</hi> and Town of <hi>Berwick,</hi> upon <hi>Tweed;</hi> the Letters for the Counties to be directed to the Coroners of the reſpective Counties, or any of them, and in Default of the Coroners to the Clerk of the Peace of the reſpective Counties; and the Let<g ref="char:EOLhyphen"/>ters for the Univerſities to be directed to the reſpective Vice-Chancellors; and the Letters to the ſeveral Cities, Boroughs, and Cinque-Ports, to be directed to the chief Magiſtrates of each reſpective City, Borough, and Cinque-Port, containing directions for the chooſing in all ſuch Counties, Cities, Univerſities, Boroughs, and Cinque-Ports, within ten Days after the receipt of the ſaid Reſpective Letters, ſuch a number of Perſons to repreſent them as are of right to be ſent to Parliament; of which Elections; and the times and places thereof, the Reſpective Officers ſhal give notice within the ſpace of Five days at the leaſt. Notice intended Elections for the Counties to be publiſhed in the Churches immediatly after the time of <hi>Divine Service,</hi> and in all Market Towns within the reſpective Counties; and notice of the intended Elections for the Cities, Univer<g ref="char:EOLhyphen"/>ſities, Boroughs, and Cinque-Ports, to be publiſhed with in the ſaid reſpective places. The ſaid Letters, and the Execution thereof, to be returned by ſuch Officer and Officers, who ſhal execute the ſame, to the Clerk of the Crown in the Court of <hi>Chancery,</hi> ſo as the perſons ſo to be choſen may meet and ſit at <hi>Weſtminſter</hi> on the Two and twentieth day of <hi>Ianuary</hi> next.</p>
+            <closer>
+               <dateline>Dated at the Houſe of Lords, <hi>Weſtminſter,</hi> 
+                  <date>
+                     <hi>December</hi> the Twenty fifth. 1688.</date>
+               </dateline>
+            </closer>
+            <argument>
+               <p>Both which were Signed by all the Lords Spiritual and Temporal then Aſsembled, and Preſented to His Highneſs the <hi>Prince of</hi> ORANGE the ſame Day at St. <hi>James's.</hi>
+               </p>
+            </argument>
+         </div>
+         <div type="response_to_petitions">
+            <head>His Highneſs the Prince of Orange's Anſvver To the Lords Spiritual and Temporal, at St. <hi>James</hi>'s, <date>
+                  <hi>December</hi> 28. 1688.</date>
+            </head>
+            <opener>
+               <salute>MY LORDS,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have conſidered of your Advice, and, as far as I am able, I will endeavour to ſecure the Peace of the Nation, until the Meeting of the Convention in <hi>January</hi> next, for the Election whereof I will forthwith Iſsue out Letters according to your deſire; I will alſo take Care to apply the publick Revenue to the moſt proper <g ref="char:V">Ʋ</g>ſes, that the preſent Affairs require; And likewiſe en<g ref="char:EOLhyphen"/>deavour to put <hi>Ireland</hi> into ſuch a Condition, as that the <hi>Proteſtant Religion,</hi> and the <hi>Engliſh</hi> Intereſt may be Maintained in that Kingdom: And I further aſſure you, That as I came hither for the Preſervation of the Protestant Religion, and the Laws and Liberties of theſe Kingdoms, ſo I ſhall al<g ref="char:EOLhyphen"/>ways be ready to expoſe myſelf to any hazard for the Defence of the ſame.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
